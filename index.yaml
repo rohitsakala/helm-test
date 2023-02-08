@@ -3,22 +3,22 @@ entries:
   new-chart:
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2023-02-07T22:41:13.641204-08:00"
+    created: "2023-02-07T22:44:48.441187-08:00"
     description: A Helm chart for Kubernetes
     digest: ed1a223ec3626f33e5c576be2edc58b12b02ddd8f90f81c2711c56e332e0c429
     name: new-chart
     type: application
     urls:
-    - https://github.com/rohitsakala/helm-test/new-chart-0.1.1.tgz
+    - https://rohitsakala.github.io/helm-test/new-chart-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-02-07T22:41:13.640803-08:00"
+    created: "2023-02-07T22:44:48.440761-08:00"
     description: A Helm chart for Kubernetes
     digest: 7fbdf0cd0596f65cd1cc30c5b385f9e8390e13e8733cccaa952da4a5e9d96fad
     name: new-chart
     type: application
     urls:
-    - https://github.com/rohitsakala/helm-test/new-chart-0.1.0.tgz
+    - https://rohitsakala.github.io/helm-test/new-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2023-02-07T22:41:13.640026-08:00"
+generated: "2023-02-07T22:44:48.440121-08:00"
